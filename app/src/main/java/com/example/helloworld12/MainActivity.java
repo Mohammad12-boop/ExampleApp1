@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
         edtName= findViewById(R.id.edtName);
         edtPassword= findViewById(R.id.edtPassword);
-        
+
+        //this is a test comment for github
     }
 
     public void btnSubmitOnClick(View view) {
